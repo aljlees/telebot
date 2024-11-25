@@ -4,7 +4,6 @@
     { "src": "tele_info.py", "use": "@vercel/python" },
     { "src": "tele.py", "use": "@vercel/python" }
     { "src": "index.py", "use": "@vercel/python" }
-    {
   ],
   "routes": [
     { "src": "/info", "dest": "tele_info.py" },
